@@ -3931,3 +3931,13 @@ input, select, textarea {
 			}
 
 		}
+
+		.dash_image{
+			width: 1500px;
+			height: 600px;
+		}
+
+		.dash_image{
+			width: 900px;
+			height: 700px;
+		}
